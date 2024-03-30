@@ -1,6 +1,5 @@
 
-<div style="background-color: #000000 ; padding: 20px;">
-  
+<div style="background-color": #000000;>
 <h1 align = "center"> Hi!👋 I'm Eduardo Lamatta</h1>
 
 <h2 align = "left"> About me </h2>
@@ -36,13 +35,13 @@
 
 <h3>My GitHub Stats</h3>
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoLamatta&layout=compact&theme=dark" alt="EduardoLamatta"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoLamatta&layout=compact&border_radius=10&theme=react" alt="EduardoLamatta"/>
 </p><br><br><br><br><br><br><br><br><br>
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=EduardoLamatta&show_icons=true&theme=dark" alt="EduardoLamatta"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=EduardoLamatta&show_icons=true&border_radius=10&theme=react" alt="EduardoLamatta"/>
 </p><br><br><br><br><br><br><br><br><br><br>
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=EduardoLamatta&theme=dark" alt="EduardoLamatta"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=EduardoLamatta&border_radius=10&theme=react" alt="EduardoLamatta"/>
 </p><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align = "left"> Contact me</h2>
@@ -52,4 +51,4 @@
   <a href = "https://twitter.com/LamattaEduardo/"><img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" target="blank" alt = "eduardolamatta" width="40" height="40"/></a>
 </p> <br>
 
-</div>
+
