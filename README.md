@@ -1,28 +1,24 @@
-<h1 align = "center"> Hi! I'm Eduardo Lamatta</h1>
+<h1 align = "center"> Hi!👋 I'm Eduardo Lamatta</h1>
 
 <h2 align = "left"> About me </h2>
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
 <p align = "left">
-  
+
+- 🌱 I’m currently learning about Unity and UnrealEngine
+- 🎮 I’m interesting in Game Development
+- 👀 I’m looking to collaborate on Game Programming
+- 💻 I'm usually to do 2D games in my free time.
+- 👾 I love the pixel art style
+
 </p> <br>
 
 
 <h2 align = "left"> Languages and Tools </h2>
 <p align = "left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" alt="unity" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="VS" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" width="40" height="40"/>
   
 </p> <br>
 
@@ -44,10 +40,10 @@
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=EduardoLamatta&show_icons=true&bg_color=00000000&theme=dark" alt="EduardoLamatta" />
-</p><br><br><br><br><br><br><br><br><br>
+</p><br><br><br><br><br><br><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=EduardoLamatta&theme=dark" alt="EduardoLamatta" />
-</p><br><br><br><br><br><br><br><br><br><br>
+</p><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 <h2 align = "left"> Contact me</h2>
