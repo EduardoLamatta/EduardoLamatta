@@ -1,5 +1,3 @@
-
-<div style="background-color": #000000;>
 <h1 align = "center"> Hi!👋 I'm Eduardo Lamatta</h1>
 
 <h2 align = "left"> About me </h2>
@@ -27,13 +25,13 @@
 </p> <br>
 
 
-<h2 align = "left"> Projects </h2>
+<h2 align = "left"> Personal Projects </h2>
 <p align = "left">
   <a href = "https://minifagames.itch.io/survivors-battleground" target="blank" alt = "minifagames.itch.io"> <img src = "https://img.itch.zone/aW1nLzEzNjYxMDA5LnBuZw==/315x250%23c/oAxC%2FJ.png" alt = "" width="315" height="250"/> </a>
 </p> <br>
 
 
-<h3>My GitHub Stats</h3>
+<h2>My GitHub Stats</h3>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoLamatta&layout=compact&border_radius=10&theme=react" alt="EduardoLamatta"/>
 </p><br><br><br><br><br><br><br><br><br>
@@ -46,9 +44,12 @@
 
 <h2 align = "left"> Contact me</h2>
 <p align = "left">
-  <a href = "https://www.linkedin.com/in/juan-eduardo-lamatta-pintado-bb7bb924b/" target="blank" alt = "eduardolamatta"><img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt = "eduardolamatta" width="40" height="40"/></a>
-  <a href = "https://www.instagram.com/lamattaedu/"><img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" target="blank" alt = "eduardolamatta" width="40" height="40"/></a>
-  <a href = "https://twitter.com/LamattaEduardo/"><img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" target="blank" alt = "eduardolamatta" width="40" height="40"/></a>
-</p> <br>
+  <a href = "https://www.linkedin.com/in/juan-eduardo-lamatta-pintado-bb7bb924b/" target="blank" alt = "eduardolamatta"><img align = "center" src = "https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt = "eduardolamatta" rel="noreferrer" width="40" height="40"/> eduardolamatta</a></p>
 
+  <p align = "left">
+  <a href = "https://www.instagram.com/lamattaedu/"><img align = "center" src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" target="blank" rel="noreferrer" alt = "eduardolamatta" width="40" height="40"/> JUAN EDUARDO LAMATTA PINTADO
+</a></p>
 
+  <p align = "left">
+  <a href = "https://twitter.com/LamattaEduardo/"><img align = "center" src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" target="blank" rel="noreferrer" alt = "eduardolamatta" width="40" height="40"/> LamattaEduardo</a>
+</p>
