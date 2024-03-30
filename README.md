@@ -40,7 +40,7 @@
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=EduardoLamatta&show_icons=true&bg_color=00000000&theme=dark" alt="EduardoLamatta" />
-</p><br><br><br><br><br><br><br><br><br><br>
+</p><br><br><br><br><br><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=EduardoLamatta&theme=dark" alt="EduardoLamatta" />
 </p><br><br><br><br><br><br><br><br><br><br><br><br>
