@@ -8,6 +8,7 @@
 - 👀 I’m looking to collaborate on Game Programming
 - 💻 I'm usually to do 2D games in my free time.
 - 👾 I love the pixel art style
+- 📫 Contact me: eduardolamattap@gmail.com
 
 </p> <br>
 
@@ -32,18 +33,17 @@
 <h3>My GitHub Stats</h3>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoLamatta&layout=compact&theme=dark&bg_color=00000000" alt="EduardoLamatta"/>
-</p><br><br><br><br><br><br><br><br>
+</p><br><br><br><br><br><br><br><br><br>
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=EduardoLamatta&show_icons=true&bg_color=00000000&theme=dark" alt="EduardoLamatta" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=EduardoLamatta&show_icons=true&bg_color=00000000&theme=dark" alt="EduardoLamatta"/>
 </p><br><br><br><br><br><br><br><br><br><br>
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=EduardoLamatta&theme=dark" alt="EduardoLamatta" />
-</p><br><br><br><br><br><br><br><br><br><br><br>
-
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=EduardoLamatta&theme=dark" alt="EduardoLamatta"/>
+</p><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align = "left"> Contact me</h2>
 <p align = "left">
-  <a href = ""><img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" target="blank" alt = "eduardolamatta" width="40" height="40"/></a>
   <a href = "https://www.linkedin.com/in/juan-eduardo-lamatta-pintado-bb7bb924b/" target="blank" alt = "eduardolamatta"><img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt = "eduardolamatta" width="40" height="40"/></a>
-  <a href = ""><img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" target="blank" alt = "eduardolamatta" width="40" height="40"/></a>
+  <a href = "https://www.instagram.com/lamattaedu/"><img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" target="blank" alt = "eduardolamatta" width="40" height="40"/></a>
+  <a href = "https://twitter.com/LamattaEduardo/"><img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" target="blank" alt = "eduardolamatta" width="40" height="40"/></a>
 </p> <br>
