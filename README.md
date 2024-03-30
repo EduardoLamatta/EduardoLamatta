@@ -1,7 +1,7 @@
+
+<div style="background-color: #000000 ; padding: 20px;">
+  
 <h1 align = "center"> Hi!👋 I'm Eduardo Lamatta</h1>
-
-
-
 
 <h2 align = "left"> About me </h2>
 <p align = "left">
@@ -51,3 +51,5 @@
   <a href = "https://www.instagram.com/lamattaedu/"><img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" target="blank" alt = "eduardolamatta" width="40" height="40"/></a>
   <a href = "https://twitter.com/LamattaEduardo/"><img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" target="blank" alt = "eduardolamatta" width="40" height="40"/></a>
 </p> <br>
+
+</div>
