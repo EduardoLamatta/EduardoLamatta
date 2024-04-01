@@ -9,7 +9,6 @@
 - 👀 I’m looking to collaborate on Game Programming
 - 💻 I'm usually to do 2D games in my free time.
 - 👾 I love the pixel art style
-- 📫 Contact me: eduardolamattap@gmail.com
 
 </p> <br>
 
