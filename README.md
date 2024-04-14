@@ -35,7 +35,7 @@
 <h2>My GitHub Stats</h3>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoLamatta&layout=compact&border_radius=10&theme=react" alt="EduardoLamatta"/>
-</p><br><br><br><br><br><br><br><br><br>
+</p><br><br><br><br><br><br><br><br>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=EduardoLamatta&show_icons=true&border_radius=10&theme=react" alt="EduardoLamatta"/>
 </p><br><br><br><br><br><br><br><br><br><br>
