@@ -22,13 +22,26 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" alt="unity" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="VS" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" width="40" height="40"/>
+
+<h2 align = "left"> Personal Projects </h2>
+
+| Survivor'sBattleground | Save Us |
+| ----------- | ----------- |
+|<a href = "https://minifagames.itch.io/survivors-battleground" target="blank" alt = "minifagames.itch.io"> <img src = "https://img.itch.zone/aW1nLzEzNjYxMDA5LnBuZw==/315x250%23c/oAxC%2FJ.png" alt = "" width="315" height="250" /></a>|<a href = "https://minifagames.itch.io/save-us" target="blank" alt = "minifagames.itch.io"> <img src = "https://img.itch.zone/aW1nLzE1ODQwMzY4LnBuZw==/315x250%23c/ZyPhuY.png" alt = "" width="315" height="250" hide_border = false/> </a>|
+
+
   
 </p> <br>
 
 
+
+
+
+
 <h2 align = "left"> Personal Projects </h2>
 <p align = "left">
-  <a href = "https://minifagames.itch.io/survivors-battleground" target="blank" alt = "minifagames.itch.io"> <img src = "https://img.itch.zone/aW1nLzEzNjYxMDA5LnBuZw==/315x250%23c/oAxC%2FJ.png" alt = "" width="315" height="250"/> </a>
+ <a href = "https://minifagames.itch.io/survivors-battleground" target="blank" alt = "minifagames.itch.io"> <img src = "https://img.itch.zone/aW1nLzEzNjYxMDA5LnBuZw==/315x250%23c/oAxC%2FJ.png" alt = "" width="315" height="250"/></a>
+   <a href = "https://minifagames.itch.io/save-us" target="blank" alt = "minifagames.itch.io"> <img src = "https://img.itch.zone/aW1nLzE1ODQwMzY4LnBuZw==/315x250%23c/ZyPhuY.png" alt = "" width="315" height="250" hide_border = false/> </a>
 </p> <br>
 
 
