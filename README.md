@@ -30,19 +30,6 @@
 |<a href = "https://minifagames.itch.io/survivors-battleground" target="blank" alt = "minifagames.itch.io"> <img src = "https://img.itch.zone/aW1nLzEzNjYxMDA5LnBuZw==/315x250%23c/oAxC%2FJ.png" alt = "" width="315" height="250" /></a>|<a href = "https://minifagames.itch.io/save-us" target="blank" alt = "minifagames.itch.io"> <img src = "https://img.itch.zone/aW1nLzE1ODQwMzY4LnBuZw==/315x250%23c/ZyPhuY.png" alt = "" width="315" height="250" hide_border = false/> </a>|
 
 
-  
-</p> <br>
-
-
-
-
-
-
-<h2 align = "left"> Personal Projects </h2>
-<p align = "left">
- <a href = "https://minifagames.itch.io/survivors-battleground" target="blank" alt = "minifagames.itch.io"> <img src = "https://img.itch.zone/aW1nLzEzNjYxMDA5LnBuZw==/315x250%23c/oAxC%2FJ.png" alt = "" width="315" height="250"/></a>
-   <a href = "https://minifagames.itch.io/save-us" target="blank" alt = "minifagames.itch.io"> <img src = "https://img.itch.zone/aW1nLzE1ODQwMzY4LnBuZw==/315x250%23c/ZyPhuY.png" alt = "" width="315" height="250" hide_border = false/> </a>
-</p> <br>
 
 
 <h2>My GitHub Stats</h3>
