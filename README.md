@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning about Unity and UnrealEngine
 - 🎮 I’m interesting in Game Development
 - 👀 I’m looking to collaborate on Game Programming
-- 💻 I'm usually to do 2D games in my free time.
+- 💻 I'm usually to do games in my free time.
 - 👾 I love the pixel art style
 
 </p> <br>
@@ -39,9 +39,7 @@
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=EduardoLamatta&show_icons=true&border_radius=10&theme=react" alt="EduardoLamatta"/>
 </p><br><br><br><br><br><br><br><br><br><br>
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=EduardoLamatta&border_radius=10&theme=react" alt="EduardoLamatta"/>
-</p><br><br><br><br><br><br><br><br><br><br>
+
 
 <h2 align = "left"> Contact me</h2>
 <p align = "left">
