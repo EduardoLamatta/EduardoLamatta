@@ -31,16 +31,6 @@
 
 
 
-
-<h2>My GitHub Stats</h3>
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoLamatta&layout=compact&border_radius=10&theme=react" alt="EduardoLamatta"/>
-</p><br><br><br><br><br><br><br><br>
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=EduardoLamatta&show_icons=true&border_radius=10&theme=react" alt="EduardoLamatta"/>
-</p><br><br><br><br><br><br><br><br><br><br>
-
-
 <h2 align = "left"> Contact me</h2>
 <p align = "left">
   <a href = "https://www.linkedin.com/in/juan-eduardo-lamatta-pintado-bb7bb924b/" target="blank" alt = "eduardolamatta"><img align = "center" src = "https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt = "eduardolamatta" rel="noreferrer" width="40" height="40"/> eduardolamatta</a></p>
