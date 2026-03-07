@@ -29,11 +29,14 @@
 | ----------- | ----------- |
 |<a href = "https://minifagames.itch.io/survivors-battleground" target="blank" alt = "minifagames.itch.io"> <img src = "https://img.itch.zone/aW1nLzEzNjYxMDA5LnBuZw==/315x250%23c/oAxC%2FJ.png" alt = "" width="315" height="250" /></a>|<a href = "https://minifagames.itch.io/save-us" target="blank" alt = "minifagames.itch.io"> <img src = "https://img.itch.zone/aW1nLzE1ODQwMzY4LnBuZw==/315x250%23c/ZyPhuY.png" alt = "" width="315" height="250" hide_border = false/> </a>|
 
+| The Apus: Escape Room |
+| ----------- |
+|<a href = "https://minifagames.itch.io/survivors-battleground" target="blank" alt = "minifagames.itch.io"> <img src = "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3243240/header.jpg" width="315" height="250" /></a>|
 
 
 <h2 align = "left"> Contact me</h2>
 <p align = "left">
-  <a href = "https://www.linkedin.com/in/juan-eduardo-lamatta-pintado-bb7bb924b/" target="blank" alt = "eduardolamatta"><img align = "center" src = "https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt = "eduardolamatta" rel="noreferrer" width="40" height="40"/> eduardolamatta</a></p>
+  <a href = "https://store.steampowered.com/app/3243240/The_Apus_Escape_room/" target="_blank" alt = "eduardolamatta"><img align = "center" src = "https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt = "eduardolamatta" rel="noreferrer" width="40" height="40"/> eduardolamatta</a></p>
 
   <p align = "left">
   <a href = "https://www.instagram.com/lamattaedu/"><img align = "center" src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" target="blank" rel="noreferrer" alt = "eduardolamatta" width="40" height="40"/> JUAN EDUARDO LAMATTA PINTADO
