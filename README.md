@@ -23,6 +23,13 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="VS" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" width="40" height="40"/>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoLamatta&layout=compact&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EduardoLamatta&show_icons=true&theme=tokyonight" />
+</p>
+
 <h2 align = "left"> Personal Projects </h2>
 
 | Survivor'sBattleground | Save Us |
